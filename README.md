@@ -1,3 +1,5 @@
+This is a very small project created following the tutorial provided by the Angular official page, just to get familiar with the main features of this framework. 
+
 # NgExample2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
